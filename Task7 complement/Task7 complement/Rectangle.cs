@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task7_complement
+{
+
+    class Rectangle : IShape
+    {
+        public double Width { get; set; }
+        public double Height { get; set; }
+
+        public Rectangle(double width, double height)
+        {
+            Width = width;
+            Height = height;
+        }
+
+        public double Area => Width * Height;
+
+        public void Draw()
+        {
+            Console.WriteLine($"Drawing Rectangle with Area = {Area}");
+        }
+    }
+
+}

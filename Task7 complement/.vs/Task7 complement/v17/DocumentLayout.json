@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\customfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\customfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\carmovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\carmovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\ishape2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\ishape2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|c:\\users\\user\\desktop\\mohamedessamc#task8\\task7 complement\\task7 complement\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8211D1-511A-425B-8969-EBE3DDA56F74}|Task7 complement\\Task7 complement.csproj|solutionrelative:task7 complement\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomFile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\CustomFile.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\CustomFile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\CustomFile.cs",
+              "RelativeToolTip": "Task7 complement\\CustomFile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:43:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWritable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IWritable.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\IWritable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IWritable.cs",
+              "RelativeToolTip": "Task7 complement\\IWritable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:43:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IReadable.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\IReadable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IReadable.cs",
+              "RelativeToolTip": "Task7 complement\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:42:33.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarMovable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\CarMovable.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\CarMovable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\CarMovable.cs",
+              "RelativeToolTip": "Task7 complement\\CarMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:41:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IMovable.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\IMovable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IMovable.cs",
+              "RelativeToolTip": "Task7 complement\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:41:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Circle.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\Circle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Circle.cs",
+              "RelativeToolTip": "Task7 complement\\Circle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:40:53.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShape2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IShape2.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\IShape2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IShape2.cs",
+              "RelativeToolTip": "Task7 complement\\IShape2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:40:23.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IShape.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\IShape.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\IShape.cs",
+              "RelativeToolTip": "Task7 complement\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:38:57.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Program.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Program.cs",
+              "RelativeToolTip": "Task7 complement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:38:31.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task7 complement\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MohamedEssamC#Task8\\Task7 complement\\Task7 complement\\Rectangle.cs",
+              "RelativeToolTip": "Task7 complement\\Rectangle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:39:37.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
