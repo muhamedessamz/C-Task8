@@ -14,7 +14,6 @@ namespace C__Task8
         public void Display()
         {
             Console.WriteLine($"Area: {GetArea()}");
-                        Console.WriteLine($"Area: {GetArea()}");
 
         }
     }
