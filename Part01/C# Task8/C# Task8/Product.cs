@@ -18,7 +18,7 @@ namespace C__Task8
         public Product(int id, string name, decimal price)
         {
             Id = id;
-            Name = name;
+            Name = ame;
             Price = price;
         }
 
